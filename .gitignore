@@ -1,0 +1,7 @@
+debug.log
+#.env
+node_modules
+package-lock.json
+yarn-lock.json
+# id_rsa_priv.pem
+# id_rsa_pub.pem
